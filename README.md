@@ -1,2 +1,2 @@
-# MM-Hallucination
+# AGI-Hallucination
 A Survey of MultiModel LLM Hallucination
