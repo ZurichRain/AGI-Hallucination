@@ -11,6 +11,8 @@
 | :- | :-: | :- | :- | :- |
 | 2022 | ACCV | [Thinking Hallucination for Video Captioning](https://arxiv.org/pdf/2209.13853.pdf) | Nasib Ullah ||
 | 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon ||
+| 2023 | ArXiv | [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/pdf/2303.02961.pdf) | Hui Liu ||
+
 
 ## 3D Hallucination
 
