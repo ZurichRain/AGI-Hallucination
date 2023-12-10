@@ -3,6 +3,7 @@
 | 年份 | 来源 | 名称 | 作者 | 简介 |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf) | Shukang Yin ||
+| 2023 | ArXiv | [ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS](https://arxiv.org/pdf/2310.00754.pdf) | Yiyang Zhou ||
 
 ## Video-Text Hallucination
 
