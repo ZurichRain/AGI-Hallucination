@@ -32,6 +32,9 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2022 | IEEE | [Hallucination of Speech Recognition Errors With Sequence to Sequence Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693404) | Prashant Serai ||
+| 2023 | ArXiv | [PARAMETER EFFICIENT AUDIO CAPTIONING WITH FAITHFUL GUIDANCE USING AUDIO-TEXT SHARED LATENT REPRESENTATION](https://arxiv.org/pdf/2309.03340.pdf) | Arvind Krishna Sridhar ||
+
+
 
 ## Language Hallucination
 
