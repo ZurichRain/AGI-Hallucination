@@ -40,4 +40,6 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Learning Perceptual Hallucination for Multi-Robot Navigation in Narrow Hallways](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161327) | Jin-Soo Park ||
+| 2023 | ArXiv | [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/pdf/2307.01928.pdf) | Allen Z. Ren ||
+
 
