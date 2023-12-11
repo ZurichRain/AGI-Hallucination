@@ -35,3 +35,9 @@
 | 年份 | 来源 | 名称 | 作者 | 简介 |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/pdf/2309.01219.pdf) | Yue Zhang ||
+
+## Robotic & Agent Hallucination
+| 年份 | 来源 | 名称 | 作者 | 简介 |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Learning Perceptual Hallucination for Multi-Robot Navigation in Narrow Hallways](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161327) | Jin-Soo Park ||
+
