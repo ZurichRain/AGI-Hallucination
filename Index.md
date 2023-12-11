@@ -1,3 +1,4 @@
+# Define and Solution for AGI Hallucination
 ## Image-Text Hallucination
 
 | Year | Source | Name | Author | Content |
@@ -46,5 +47,8 @@
 | 2021 | ArXiv | [Toward Agile Maneuvers in Highly Constrained Spaces: Learning from Hallucination](https://arxiv.org/pdf/2007.14479.pdf) | Xuesu Xiao ||
 
 
-
+# Evaluation for AGI Hallucination
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) | Yejin Bang ||
 
