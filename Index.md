@@ -48,7 +48,12 @@
 
 
 # Evaluation for AGI Hallucination
+
+## MLLMs
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) | Yejin Bang ||
+| 2023 | ArXiv | [AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/pdf/2311.07397.pdf) | Junyang Wang ||
+
+
 
