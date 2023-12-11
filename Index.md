@@ -22,6 +22,8 @@
 | :- | :-: | :- | :- | :- |
 | 2022 | ACCV | [PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision](https://arxiv.org/pdf/2203.15625.pdf) | Kehong Gong ||
 | 2014 | IEEE | [3D Face Hallucination from a Single Depth Frame](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7035806) | Shu Liang ||
+| 2022 | AAAI | [Texture Generation Using Dual-Domain Feature Flow with Multi-View Hallucinations](https://ojs.aaai.org/index.php/AAAI/article/view/19895) | Seunggyu Chang ||
+
 
 
 ## Audio Hallucination
