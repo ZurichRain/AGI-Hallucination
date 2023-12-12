@@ -59,6 +59,7 @@
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/pdf/2304.14406.pdf) | Sumith Kulal ||
 | 2023 | ArXiv | [Videochat: Chat-centric video understanding.](https://arxiv.org/pdf/2305.06355.pdf) | KunChang Li ||
+| 2023 | ArXiv | [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf) | Peng Jin ||
 
 # Evaluation for AGI Hallucination
 
@@ -72,6 +73,9 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/pdf/2303.02961.pdf) | Hui Liu ||
+
+
+
 
 
 
