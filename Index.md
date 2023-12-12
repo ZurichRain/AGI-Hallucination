@@ -15,6 +15,10 @@
 | 2022 | ArXiv | [Audio-visual video face hallucination with frequency supervision and cross modality support by speech based lip reading loss](https://arxiv.org/pdf/2211.10883.pdf) | Shailza Sharma ||
 | 2022 | ArXiv | [Efficient Human Vision Inspired Action Recognition Using Adaptive Spatiotemporal Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10236596) | Khoi-Nguyen C. Mac | pre-scans the global scene context at low-resolution and decides to skip or request high-resolution features at salient regions for further processing. Based on a pre-scanned features, the temporal sampler decides whether to process the frame fully (Full model), or skip to the frame and propagate past information (bottom block). The spatial sampler in turns select RoIs from high-res input to augment the features with low-res inputs.  |
 | 2022 | ArXiv | [Video Question Answering: Datasets, Algorithms and Challenges](https://arxiv.org/pdf/2203.01225.pdf) | Yaoyao Zhong | fine-grained to coarsegrained in both temporal and spatial domains ， information from noisy web-scale visiontext data , multi-step reasoning |
+| 2023 | ArXiv | [RETRIEVAL-BASED VIDEO LANGUAGE MODEL FOR EFFICIENT LONG VIDEO QUESTION ANSWERING](https://arxiv.org/pdf/2312.04931.pdf) | Jiaqi Xu | long video and long text can introduces noise to the video QA process |
+
+
+
 
 
 
