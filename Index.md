@@ -5,6 +5,7 @@
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf) | Shukang Yin ||
 | 2023 | ArXiv | [ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS](https://arxiv.org/pdf/2310.00754.pdf) | Yiyang Zhou ||
+| 2019 | ArXiv | [Object Hallucination in Image Captioning](https://arxiv.org/pdf/1809.02156.pdf) | Anna Rohrbach ||
 
 ## Video-Text Hallucination
 
@@ -14,7 +15,7 @@
 | 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon ||
 | 2022 | ArXiv | [Audio-visual video face hallucination with frequency supervision and cross modality support by speech based lip reading loss](https://arxiv.org/pdf/2211.10883.pdf) | Shailza Sharma ||
 | 2022 | ArXiv | [Efficient Human Vision Inspired Action Recognition Using Adaptive Spatiotemporal Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10236596) | Khoi-Nguyen C. Mac ||
-| 2019 | ArXiv | [Object Hallucination in Image Captioning](https://arxiv.org/pdf/1809.02156.pdf) | Anna Rohrbach ||
+
 
 
 
