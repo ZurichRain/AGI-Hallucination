@@ -12,7 +12,6 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2022 | ACCV | [Thinking Hallucination for Video Captioning](https://arxiv.org/pdf/2209.13853.pdf) | Nasib Ullah ||
-| 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon ||
 | 2022 | ArXiv | [Audio-visual video face hallucination with frequency supervision and cross modality support by speech based lip reading loss](https://arxiv.org/pdf/2211.10883.pdf) | Shailza Sharma ||
 | 2022 | ArXiv | [Efficient Human Vision Inspired Action Recognition Using Adaptive Spatiotemporal Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10236596) | Khoi-Nguyen C. Mac ||
 
@@ -69,6 +68,7 @@
 | 2023 | ArXiv | [Deficiency-Aware Masked Transformer for Video Inpainting](https://arxiv.org/pdf/2311.08046.pdf) | Yongsheng Yu ||
 | 2023 | ArXiv | [Video-LLaMA An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf) | Hang Zhang ||
 | 2023 | ArXiv | [Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184.pdf) | Mustafa Shukor ||
+| 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon ||
 
 
 
