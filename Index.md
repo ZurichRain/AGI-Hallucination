@@ -18,9 +18,6 @@
 
 
 
-
-
-
 ## 3D Hallucination
 
 | Year | Source | Name | Author | Content |
@@ -66,7 +63,7 @@
 | 2023 | ArXiv | [Videochat: Chat-centric video understanding.](https://arxiv.org/pdf/2305.06355.pdf) | KunChang Li ||
 | 2023 | ArXiv | [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf) | Peng Jin ||
 | 2023 | ArXiv | [Deficiency-Aware Masked Transformer for Video Inpainting](https://arxiv.org/pdf/2311.08046.pdf) | Yongsheng Yu ||
-| 2023 | ArXiv | [Video-LLaMA An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf) | Hang Zhang ||
+| 2023 | ArXiv | [Video-LLaMA An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf) | Hang Zhang | 本文提出一个 Video Q-former来更好的处理video时序中的理解不一致问题，并使用Audio Q-former进一步捕获音频特征，通过adapter使得多模态和自然语言融合，有效的缓解了幻觉的问题。 |
 | 2023 | ArXiv | [Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184.pdf) | Mustafa Shukor ||
 | 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon | 提出了一种 THR 正则损失来减轻幻觉，减轻了 feature-level 幻觉影响，本质上是减少mutual information，从文本特征和图像特征信息层面。|
 
