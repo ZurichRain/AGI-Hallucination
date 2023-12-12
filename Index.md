@@ -59,7 +59,6 @@
 
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
-| 2023 | ArXiv | [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/pdf/2304.14406.pdf) | Sumith Kulal ||
 | 2023 | ArXiv | [Videochat: Chat-centric video understanding.](https://arxiv.org/pdf/2305.06355.pdf) | KunChang Li ||
 | 2023 | ArXiv | [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf) | Peng Jin |  首次融合了images和 videos，提出动态visual tokens的概念，使用 high-level 语义特征和low level的视觉细节特征，提出一种Unified方法 |
 | 2023 | ArXiv | [Deficiency-Aware Masked Transformer for Video Inpainting](https://arxiv.org/pdf/2311.08046.pdf) | Yongsheng Yu ||
@@ -85,7 +84,11 @@
 | 2023 | ArXiv | [VIDEO-CSR: COMPLEX VIDEO DIGEST CREATION FOR VISUAL-LANGUAGE MODELS](https://arxiv.org/pdf/2310.05060.pdf) | Tingkai Liu ||
 
 
-
-
+# Discourse for AGI Hallucination
+Hallucinations are not always entirely negative phenomena. To a certain extent, they reflect the creativity inherent in the model. We should embrace hallucinations, striving to minimize those that are unequivocally erroneous.
+## Video-Text Hallucination
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/pdf/2304.14406.pdf) | Sumith Kulal | 本文提出使用人物插入场景的方法，使得模型可以产生人物幻觉和场景幻觉，使得构图协调，又富有创造力。 |
 
 
