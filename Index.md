@@ -54,6 +54,11 @@
 # Emergence for AGI Hallucination
 
 # Solution for AGI Hallucination
+## Video-Text Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/pdf/2304.14406.pdf) | Sumith Kulal ||
 
 # Evaluation for AGI Hallucination
 
