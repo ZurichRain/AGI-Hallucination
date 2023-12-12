@@ -73,6 +73,7 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/pdf/2303.02961.pdf) | Hui Liu ||
+| 2023 | ArXiv | [VIDEO-CSR: COMPLEX VIDEO DIGEST CREATION FOR VISUAL-LANGUAGE MODELS](https://arxiv.org/pdf/2310.05060.pdf) | Tingkai Liu ||
 
 
 
