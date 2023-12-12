@@ -59,7 +59,7 @@
 
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
-| 2023 | ArXiv | [Videochat: Chat-centric video understanding.](https://arxiv.org/pdf/2305.06355.pdf) | KunChang Li ||
+| 2023 | ArXiv | [Videochat: Chat-centric video understanding.](https://arxiv.org/pdf/2305.06355.pdf) | KunChang Li | 他们使用Detailed Video Descriptions来减少幻觉，而且引入spatiotemporal reasoning, event localization, 和 causal relationship来丰富video-text语义表达，为未来的研究设定了标准。 |
 | 2023 | ArXiv | [Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding](https://arxiv.org/pdf/2311.08046.pdf) | Peng Jin |  首次融合了images和 videos，提出动态visual tokens的概念，使用 high-level 语义特征和low level的视觉细节特征，提出一种Unified方法 |
 | 2023 | ArXiv | [Deficiency-Aware Masked Transformer for Video Inpainting](https://arxiv.org/pdf/2311.08046.pdf) | Yongsheng Yu ||
 | 2023 | ArXiv | [Video-LLaMA An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858.pdf) | Hang Zhang | 本文提出一个 Video Q-former来更好的处理video时序中的理解不一致问题，并使用Audio Q-former进一步捕获音频特征，通过adapter使得多模态和自然语言融合，有效的缓解了幻觉的问题。 |
