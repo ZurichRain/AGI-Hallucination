@@ -1,4 +1,4 @@
-# Define and Solution for AGI Hallucination
+# Definition for AGI Hallucination
 ## Image-Text Hallucination
 
 | Year | Source | Name | Author | Content |
@@ -37,10 +37,6 @@
 | 2023 | ArXiv | [LP-MusicCaps: LLM-BASED PSEUDO MUSIC CAPTIONING](https://arxiv.org/pdf/2307.16372.pdf) | SeungHeon Doh ||
 
 
-
-
-
-
 ## Language Hallucination
 
 | Year | Source | Name | Author | Content |
@@ -54,6 +50,10 @@
 | 2023 | ArXiv | [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/pdf/2307.01928.pdf) | Allen Z. Ren ||
 | 2021 | ArXiv | [Toward Agile Maneuvers in Highly Constrained Spaces: Learning from Hallucination](https://arxiv.org/pdf/2007.14479.pdf) | Xuesu Xiao ||
 
+
+# Emergence for AGI Hallucination
+
+# Solution for AGI Hallucination
 
 # Evaluation for AGI Hallucination
 
