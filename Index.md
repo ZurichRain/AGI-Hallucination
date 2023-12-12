@@ -67,6 +67,12 @@
 | 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon | 提出了一种 THR 正则损失来减轻幻觉，减轻了 feature-level 幻觉影响，本质上是减少mutual information，从文本特征和图像特征信息层面。|
 
 
+## 3D Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2019 | CVPR | [Learning 3D Human Dynamics from Video](https://arxiv.org/pdf/2203.15625.pdf) | Angjoo Kanazawa | learn a representation of 3D dynamics of humans from video via a simple but effective temporal encoding of image features which can reduce hallucinations |
+
 
 
 # Evaluation for AGI Hallucination
