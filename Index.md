@@ -12,7 +12,6 @@
 | :- | :-: | :- | :- | :- |
 | 2022 | ACCV | [Thinking Hallucination for Video Captioning](https://arxiv.org/pdf/2209.13853.pdf) | Nasib Ullah ||
 | 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon ||
-| 2023 | ArXiv | [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/pdf/2303.02961.pdf) | Hui Liu ||
 | 2022 | ArXiv | [Audio-visual video face hallucination with frequency supervision and cross modality support by speech based lip reading loss](https://arxiv.org/pdf/2211.10883.pdf) | Shailza Sharma ||
 
 
@@ -68,6 +67,11 @@
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) | Yejin Bang ||
 | 2023 | ArXiv | [AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/pdf/2311.07397.pdf) | Junyang Wang ||
+
+## Video-Text Hallucination
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/pdf/2303.02961.pdf) | Hui Liu ||
 
 
 
