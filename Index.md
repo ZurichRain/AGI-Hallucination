@@ -13,6 +13,8 @@
 | 2022 | ACCV | [Thinking Hallucination for Video Captioning](https://arxiv.org/pdf/2209.13853.pdf) | Nasib Ullah ||
 | 2022 | ArXiv | [Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://arxiv.org/pdf/2212.05765.pdf) | Sunjae Yoon ||
 | 2022 | ArXiv | [Audio-visual video face hallucination with frequency supervision and cross modality support by speech based lip reading loss](https://arxiv.org/pdf/2211.10883.pdf) | Shailza Sharma ||
+| 2022 | ArXiv | [Efficient Human Vision Inspired Action Recognition Using Adaptive Spatiotemporal Sampling](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10236596) | Khoi-Nguyen C. Mac ||
+
 
 
 
