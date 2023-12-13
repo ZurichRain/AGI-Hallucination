@@ -42,6 +42,9 @@
 | 2023 | ArXiv | [PARAMETER EFFICIENT AUDIO CAPTIONING WITH FAITHFUL GUIDANCE USING AUDIO-TEXT SHARED LATENT REPRESENTATION](https://arxiv.org/pdf/2309.03340.pdf) | Arvind Krishna Sridhar ||
 | 2023 | ArXiv | [Factual Consistency Oriented Speech Recognition](https://arxiv.org/pdf/2302.12369.pdf) | Naoyuki Kanda ||
 | 2023 | ArXiv | [LP-MusicCaps: LLM-BASED PSEUDO MUSIC CAPTIONING](https://arxiv.org/pdf/2307.16372.pdf) | SeungHeon Doh ||
+| 2020 | ArXiv | [Identifying Audio Adversarial Examples via Anomalous Patern Detection](https://arxiv.org/pdf/2002.05463.pdf) | Victor Akinwande ||
+
+
 
 
 ## Language Hallucination
