@@ -38,7 +38,7 @@
 
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
-| 2022 | IEEE | [Hallucination of Speech Recognition Errors With Sequence to Sequence Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693404) | Prashant Serai ||
+| 2022 | IEEE | [Hallucination of Speech Recognition Errors With Sequence to Sequence Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9693404) | Prashant Serai | They present novel end-to-end models to directly predict hallucinated ASR word sequence outputs, conditioning on an input word sequence as well as a corresponding phoneme sequence. |
 | 2023 | ArXiv | [PARAMETER EFFICIENT AUDIO CAPTIONING WITH FAITHFUL GUIDANCE USING AUDIO-TEXT SHARED LATENT REPRESENTATION](https://arxiv.org/pdf/2309.03340.pdf) | Arvind Krishna Sridhar ||
 | 2023 | ArXiv | [Factual Consistency Oriented Speech Recognition](https://arxiv.org/pdf/2302.12369.pdf) | Naoyuki Kanda ||
 | 2023 | ArXiv | [LP-MusicCaps: LLM-BASED PSEUDO MUSIC CAPTIONING](https://arxiv.org/pdf/2307.16372.pdf) | SeungHeon Doh ||
