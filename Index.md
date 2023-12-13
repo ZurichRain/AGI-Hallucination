@@ -43,7 +43,7 @@
 | 2023 | ArXiv | [Factual Consistency Oriented Speech Recognition](https://arxiv.org/pdf/2302.12369.pdf) | Naoyuki Kanda | This paper presents a novel optimization framework for automatic speech recognition (ASR) with the aim of reducing hallucinations produced by an ASR model.  The proposed framework optimizes the ASR model to maximize an expected factual consistency score between ASR hypotheses and groundtruth transcriptions, where the factual consistency score is computed by a separately trained estimator. |
 | 2023 | ArXiv | [LP-MusicCaps: LLM-BASED PSEUDO MUSIC CAPTIONING](https://arxiv.org/pdf/2307.16372.pdf) | SeungHeon Doh ||
 | 2020 | ArXiv | [Identifying Audio Adversarial Examples via Anomalous Patern Detection](https://arxiv.org/pdf/2002.05463.pdf) | Victor Akinwande | Audio processing models based on deep neural networks are susceptible to adversarial attacks even when the adversarial audio waveform is 99.9% similar to a benign sample , propose a method to detect audio adversarial samples. |
-| 2023 | ArXiv | [LISTEN, THINK, AND UNDERSTAND](https://arxiv.org/pdf/2305.10790.pdf) | Yuan Gong ||
+| 2023 | ArXiv | [LISTEN, THINK, AND UNDERSTAND](https://arxiv.org/pdf/2305.10790.pdf) | Yuan Gong | created a new OpenAQA-5M dataset consisting of 1.9 million closed-ended and 3.7 million open-ended, diverse (audio, question, answer) tuples, and have used an autoregressive training framework with a perception-to-understanding curriculum. LTU demonstrates strong performance and generalization ability on conventional audio tasks such as classification and captioning , can greatly mitigate the hallucination issue. |
 
 
 
