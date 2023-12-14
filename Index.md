@@ -102,6 +102,13 @@
 | 2023 | ArXiv | [Models See Hallucinations: Evaluating the Factuality in Video Captioning](https://arxiv.org/pdf/2303.02961.pdf) | Hui Liu ||
 | 2023 | ArXiv | [VIDEO-CSR: COMPLEX VIDEO DIGEST CREATION FOR VISUAL-LANGUAGE MODELS](https://arxiv.org/pdf/2310.05060.pdf) | Tingkai Liu ||
 
+## 3D Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects](https://arxiv.org/pdf/2311.17851.pdf) | Rishabh Kabra |  |
+
+
 
 # Discourse for AGI Hallucination
 Hallucinations are not always entirely negative phenomena. To a certain extent, they reflect the creativity inherent in the model. We should embrace hallucinations, striving to minimize those that are unequivocally erroneous.
