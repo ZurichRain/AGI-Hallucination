@@ -108,6 +108,12 @@
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Evaluating VLMs for Score-Based, Multi-Probe Annotation of 3D Objects](https://arxiv.org/pdf/2311.17851.pdf) | Rishabh Kabra |  |
 
+## Audio Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2020 | ACL | [Asking and Answering Questions to Evaluate the Factual Consistency of Summaries](https://aclanthology.org/2020.acl-main.450.pdf) | Alex Wang |  |
+
 
 
 # Discourse for AGI Hallucination
