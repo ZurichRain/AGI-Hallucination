@@ -123,6 +123,13 @@
 
 # Discourse for AGI Hallucination
 Hallucinations are not always entirely negative phenomena. To a certain extent, they reflect the creativity inherent in the model. We should embrace hallucinations, striving to minimize those that are unequivocally erroneous.
+
+## Image-Text Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization](https://arxiv.org/pdf/2311.16839.pdf) | Zhiyuan Zhao | |
+
 ## Video-Text Hallucination
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
