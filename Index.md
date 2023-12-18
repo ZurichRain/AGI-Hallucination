@@ -86,6 +86,11 @@
 | 2019 | CVPR | [Learning 3D Human Dynamics from Video](https://arxiv.org/pdf/2203.15625.pdf) | Angjoo Kanazawa | learn a representation of 3D dynamics of humans from video via a simple but effective temporal encoding of image features which can reduce hallucinations |
 | 2023 | ArXiv | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981.pdf) | Yining Hong | 3D-LLMs can take 3D point clouds and their features as input and perform a diverse set of 3D-related tasks, including captioning, dense captioning, 3D question answering, task decomposition, 3D grounding, 3D-assisted dialog, navigation, and so on. |
 
+## Image-Text Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF](https://arxiv.org/pdf/2309.14525.pdf) | Zhiqing Sun | |
 
 
 # Evaluation for AGI Hallucination
