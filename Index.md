@@ -85,7 +85,7 @@
 | :- | :-: | :- | :- | :- |
 | 2019 | CVPR | [Learning 3D Human Dynamics from Video](https://arxiv.org/pdf/2203.15625.pdf) | Angjoo Kanazawa | learn a representation of 3D dynamics of humans from video via a simple but effective temporal encoding of image features which can reduce hallucinations |
 | 2023 | ArXiv | [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/pdf/2307.12981.pdf) | Yining Hong | 3D-LLMs can take 3D point clouds and their features as input and perform a diverse set of 3D-related tasks, including captioning, dense captioning, 3D question answering, task decomposition, 3D grounding, 3D-assisted dialog, navigation, and so on. |
-| 2023 | ArXiv | [M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/pdf/2312.10763.pdf) | Mingsheng Li | |
+| 2023 | ArXiv | [M3DBench: Let’s Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/pdf/2312.10763.pdf) | Mingsheng Li | introduce a comprehensive 3D instructionfollowing dataset called M3DBench, It supports general multimodal instructions interleaved with text, images, 3D objects, and other visual prompts. It unifies diverse 3D tasks at both region and scene levels, covering a variety of fundamental abilities in real-world 3D environments.It is a large-scale 3D instruction-following dataset with over 320k instruction-response pairs. |
 
 
 ## Image-Text Hallucination
