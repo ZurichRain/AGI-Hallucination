@@ -148,4 +148,6 @@ Hallucinations are not always entirely negative phenomena. To a certain extent, 
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2021 | ArXiv | [Agile Robot Navigation through Hallucinated Learning and Sober Deployment](https://arxiv.org/pdf/2010.08098.pdf) | Xuesu Xiao ||
+| 2021 | ArXiv | [From Agile Ground to Aerial Navigation: Learning from Learned Hallucination](https://arxiv.org/pdf/2108.09793.pdf) | Zizhao Wang ||
+
 
