@@ -65,6 +65,11 @@
 
 
 # Emergence for AGI Hallucination
+## Data Distribution in the Training Stage
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2021 | ArXiv | [How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN](https://arxiv.org/pdf/2111.09509.pdf) | R. Thomas McCoy | |
+
 
 # Solution for AGI Hallucination
 ## Video-Text Hallucination
