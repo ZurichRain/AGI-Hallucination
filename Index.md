@@ -142,8 +142,10 @@ Hallucinations are not always entirely negative phenomena. To a certain extent, 
 
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
-| 2023 | ArXiv | [HALLUAUDIO: HALLUCINATE FREQUENCY AS CONCEPTS FOR FEW-SHOT AUDIO CLASSIFICATION](https://arxiv.org/pdf/2302.14204.pdf) | Zhongjie Yu |  |
+| 2023 | ArXiv | [HALLUAUDIO: HALLUCINATE FREQUENCY AS CONCEPTS FOR FEW-SHOT AUDIO CLASSIFICATION](https://arxiv.org/pdf/2302.14204.pdf) | Zhongjie Yu | |
 
-
-
+## Robotic & Agent Hallucination
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2021 | ArXiv | [Agile Robot Navigation through Hallucinated Learning and Sober Deployment](https://arxiv.org/pdf/2010.08098.pdf) | Xuesu Xiao ||
 
