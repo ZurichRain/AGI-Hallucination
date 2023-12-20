@@ -69,6 +69,8 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2021 | ArXiv | [How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN](https://arxiv.org/pdf/2111.09509.pdf) | R. Thomas McCoy | |
+| 2023 | ArXiv | [Explanation Shift: How Did the Distribution Shift Impact the Model?](https://arxiv.org/pdf/2303.08081.pdf) | Carlos Mougan | |
+
 
 
 # Solution for AGI Hallucination
