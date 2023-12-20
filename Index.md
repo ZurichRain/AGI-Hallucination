@@ -72,6 +72,9 @@
 | 2023 | ArXiv | [Explanation Shift: How Did the Distribution Shift Impact the Model?](https://arxiv.org/pdf/2303.08081.pdf) | Carlos Mougan | |
 | 2023 | ArXiv | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) | Hyung Won Chung | |
 | 2023 | ArXiv | [HOW ABILITIES IN LARGE LANGUAGE MODELS ARE AFFECTED BY SUPERVISED FINE-TUNING DATA COMPOSITION](https://arxiv.org/pdf/2310.05492.pdf) | Guanting Dong | |
+| 2023 | ArXiv | [On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?](https://arxiv.org/pdf/2204.07931.pdf) | Nouha Dziri | |
+
+
 
 
 
