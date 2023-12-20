@@ -143,6 +143,9 @@ Hallucinations are not always entirely negative phenomena. To a certain extent, 
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization](https://arxiv.org/pdf/2311.16839.pdf) | Zhiyuan Zhao | |
+| 2023 | ArXiv | [Iterative Teaching by Data Hallucination](https://arxiv.org/pdf/2210.17467.pdf) | Zeju Qiu | |
+
+
 
 ## Video-Text Hallucination
 | Year | Source | Name | Author | Content |
