@@ -105,6 +105,8 @@
 
 
 
+
+
 ## Video-Text Hallucination
 
 | Year | Source | Name | Author | Content |
@@ -131,6 +133,7 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF](https://arxiv.org/pdf/2309.14525.pdf) | Zhiqing Sun | |
+| 2023 | ArXiv | [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) | Lei Wang | |
 
 
 # Evaluation for AGI Hallucination
