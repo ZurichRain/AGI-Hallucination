@@ -101,6 +101,8 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2022 | ArXiv | [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) | Long Ouyang | |
+| 2023 | ArXiv | [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/pdf/2312.10007.pdf) | Pegah Jandaghi | |
+
 
 
 ## Video-Text Hallucination
