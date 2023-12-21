@@ -95,6 +95,14 @@
 
 
 # Solution for AGI Hallucination
+
+## Language Hallucination
+
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2022 | ArXiv | [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) | Long Ouyang | |
+
+
 ## Video-Text Hallucination
 
 | Year | Source | Name | Author | Content |
