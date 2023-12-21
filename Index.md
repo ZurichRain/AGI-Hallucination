@@ -86,6 +86,8 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision](https://arxiv.org/pdf/2312.00849.pdf) | Tzu-Jui Julius Wang | |
+| 2023 | ArXiv | [Embedding Hallucination for Few-Shot Language Fine-tuning](https://arxiv.org/pdf/2205.01307.pdf) | Yiren Jian | |
+
 
 
 
