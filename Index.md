@@ -80,6 +80,7 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/pdf/2312.00849.pdf) | Tianyu Yu | |
+| 2023 | ArXiv | [Quantifying Uncertainty with Probabilistic Machine Learning Modeling in Wireless Sensing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10059612) | Amit Kachroo | |
 
 
 
