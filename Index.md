@@ -102,7 +102,7 @@
 | :- | :-: | :- | :- | :- |
 | 2022 | ArXiv | [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155.pdf) | Long Ouyang | |
 | 2023 | ArXiv | [Faithful Persona-based Conversational Dataset Generation with Large Language Models](https://arxiv.org/pdf/2312.10007.pdf) | Pegah Jandaghi | |
-| 2023 | ArXiv | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf) | Nouha Dziri | |
+
 
 
 
@@ -136,6 +136,7 @@
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF](https://arxiv.org/pdf/2309.14525.pdf) | Zhiqing Sun | |
 | 2023 | ArXiv | [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) | Lei Wang | |
+| 2023 | ArXiv | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf) | Nouha Dziri | |
 
 
 
