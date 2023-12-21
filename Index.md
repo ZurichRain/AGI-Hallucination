@@ -76,8 +76,10 @@
 | 2020 | ArXiv | [Data augmentation techniques for the Video Question Answering task](https://arxiv.org/pdf/2008.09849.pdf) | Alex Falcon | |
 
 
-
-
+## Generalization Capability of the Model
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/pdf/2312.00849.pdf) | Tianyu Yu | |
 
 
 
