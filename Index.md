@@ -144,6 +144,8 @@
 | 2023 | ArXiv | [ALIGNING LARGE MULTIMODAL MODELS WITH FACTUALLY AUGMENTED RLHF](https://arxiv.org/pdf/2309.14525.pdf) | Zhiqing Sun | |
 | 2023 | ArXiv | [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) | Lei Wang | |
 | 2023 | ArXiv | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf) | Haotian Liu | |
+| 2017 | ArXiv | [SmoothGrad: removing noise by adding noise](https://arxiv.org/pdf/1706.03825.pdf) | Daniel Smilkov | |
+
 
 ## Robotic & Agent Hallucination
 | Year | Source | Name | Author | Content |
