@@ -20,10 +20,6 @@
 
 
 
-
-
-
-
 ## 3D Hallucination
 
 | Year | Source | Name | Author | Content |
@@ -148,6 +144,9 @@
 | 2023 | ArXiv | [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) | Lei Wang | |
 | 2023 | ArXiv | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf) | Haotian Liu | |
 | 2017 | ArXiv | [SmoothGrad: removing noise by adding noise](https://arxiv.org/pdf/1706.03825.pdf) | Daniel Smilkov | |
+| 2023 | ArXiv | [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) | Zhiyang Chen | |
+
+
 
 
 ## Robotic & Agent Hallucination
