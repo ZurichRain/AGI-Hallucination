@@ -108,6 +108,8 @@
 | 2023 | ArXiv | [SpecInfer: Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification](https://arxiv.org/pdf/2305.09781.pdf) | Xupeng Miao | |
 | 2023 | ArXiv | [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/pdf/2305.11426.pdf) | Satyapriya Krishna | |
 | 2023 | ArXiv | [ARE LARGE LANGUAGE MODELS POST HOC EXPLAINERS?](https://arxiv.org/pdf/2310.05797.pdf) | Nicholas Kroeger | |
+| 2023 | ArXiv | [TELL YOUR MODEL WHERE TO ATTEND: POST-HOC ATTENTION STEERING FOR LLMS](https://arxiv.org/pdf/2311.02262.pdf) | Qingru Zhang | |
+
 
 
 
