@@ -109,6 +109,9 @@
 | 2023 | ArXiv | [Post Hoc Explanations of Language Models Can Improve Language Models](https://arxiv.org/pdf/2305.11426.pdf) | Satyapriya Krishna | |
 | 2023 | ArXiv | [ARE LARGE LANGUAGE MODELS POST HOC EXPLAINERS?](https://arxiv.org/pdf/2310.05797.pdf) | Nicholas Kroeger | |
 | 2023 | ArXiv | [TELL YOUR MODEL WHERE TO ATTEND: POST-HOC ATTENTION STEERING FOR LLMS](https://arxiv.org/pdf/2311.02262.pdf) | Qingru Zhang | |
+| 2023 | ArXiv | [PERSONALIZED SOUPS: PERSONALIZED LARGE LANGUAGE MODEL ALIGNMENT VIA POST-HOC PARAMETER MERGING](https://arxiv.org/pdf/2310.11564.pdf) | Joel Jang | |
+
+
 
 
 
