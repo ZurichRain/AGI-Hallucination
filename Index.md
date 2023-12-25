@@ -143,7 +143,10 @@
 | 2023 | ArXiv | [Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites](https://arxiv.org/pdf/2312.01701.pdf) | Lei Wang | |
 | 2023 | ArXiv | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf) | Haotian Liu | |
 
-
+## Robotic & Agent Hallucination
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | AAAI | [Certified Policy Smoothing for Cooperative Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26756) | Ronghui Mu ||
 
 # Evaluation for AGI Hallucination
 
