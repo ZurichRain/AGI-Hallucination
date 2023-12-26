@@ -162,6 +162,9 @@
 | 2023 | ArXiv | [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) | Yejin Bang ||
 | 2023 | ArXiv | [AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation](https://arxiv.org/pdf/2311.07397.pdf) | Junyang Wang ||
 | 2023 | ArXiv | [A Survey of Hallucination in “Large” Foundation Models](https://arxiv.org/pdf/2309.05922.pdf) | Vipula Rawte ||
+| 2023 | ArXiv | [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://aclanthology.org/2023.emnlp-main.397.pdf) | Junyi Li ||
+
+
 
 
 ## Video-Text Hallucination
