@@ -156,6 +156,13 @@
 
 # Evaluation for AGI Hallucination
 
+
+## LLMs
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/pdf/2305.14251.pdf) | Sewon Min ||
+
+
 ## MLLMs
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
