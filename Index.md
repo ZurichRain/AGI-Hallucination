@@ -164,7 +164,10 @@
 | 2023 | ArXiv | [A Survey of Hallucination in “Large” Foundation Models](https://arxiv.org/pdf/2309.05922.pdf) | Vipula Rawte ||
 | 2023 | ArXiv | [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://aclanthology.org/2023.emnlp-main.397.pdf) | Junyi Li ||
 
-
+## Image-Text Hallucination
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/pdf/2302.04023.pdf) | Yejin Bang ||
 
 
 ## Video-Text Hallucination
