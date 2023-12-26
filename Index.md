@@ -4,7 +4,6 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf) | Shukang Yin ||
-| 2023 | ArXiv | [ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS](https://arxiv.org/pdf/2310.00754.pdf) | Yiyang Zhou ||
 | 2019 | ArXiv | [Object Hallucination in Image Captioning](https://arxiv.org/pdf/1809.02156.pdf) | Anna Rohrbach ||
 
 ## Video-Text Hallucination
@@ -145,6 +144,7 @@
 | 2023 | ArXiv | [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf) | Haotian Liu | |
 | 2017 | ArXiv | [SmoothGrad: removing noise by adding noise](https://arxiv.org/pdf/1706.03825.pdf) | Daniel Smilkov | |
 | 2023 | ArXiv | [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) | Zhiyang Chen | |
+| 2023 | ArXiv | [ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS](https://arxiv.org/pdf/2310.00754.pdf) | Yiyang Zhou ||
 
 
 
