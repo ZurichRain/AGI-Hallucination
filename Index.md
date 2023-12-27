@@ -248,5 +248,8 @@ Hallucinations are not always entirely negative phenomena. To a certain extent, 
 | :- | :-: | :- | :- | :- |
 | 2021 | ArXiv | [Agile Robot Navigation through Hallucinated Learning and Sober Deployment](https://arxiv.org/pdf/2010.08098.pdf) | Xuesu Xiao ||
 | 2021 | ArXiv | [From Agile Ground to Aerial Navigation: Learning from Learned Hallucination](https://arxiv.org/pdf/2108.09793.pdf) | Zizhao Wang ||
+| 2023 | ArXiv | [HaLP: Hallucinating Latent Positives for Skeleton-based Self-Supervised Learning of Actions](https://openaccess.thecvf.com/content/CVPR2023/papers/Shah_HaLP_Hallucinating_Latent_Positives_for_Skeleton-Based_Self-Supervised_Learning_of_Actions_CVPR_2023_paper.pdf) | Anshul Shah ||
+
+
 
 
