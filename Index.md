@@ -51,6 +51,8 @@
 | 2023 | ArXiv | [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/pdf/2309.01219.pdf) | Yue Zhang ||
 | 2022 | ArXiv | [Survey of Hallucination in Natural Language Generation](https://arxiv.org/pdf/2202.03629.pdf) | ZIWEI JI ||
 | 2023 | ArXiv | [Theory of Hallucinations based on Equivariance](https://arxiv.org/pdf/2312.14504.pdf) | Hisaichi Shibata ||
+| 2023 | ArXiv | [Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/pdf/2309.06794.pdf) | Hongbin Ye ||
+
 
 
 
