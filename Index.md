@@ -75,6 +75,9 @@
 | 2023 | ArXiv | [HOW ABILITIES IN LARGE LANGUAGE MODELS ARE AFFECTED BY SUPERVISED FINE-TUNING DATA COMPOSITION](https://arxiv.org/pdf/2310.05492.pdf) | Guanting Dong | |
 | 2023 | ArXiv | [On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?](https://arxiv.org/pdf/2204.07931.pdf) | Nouha Dziri | |
 | 2020 | ArXiv | [Data augmentation techniques for the Video Question Answering task](https://arxiv.org/pdf/2008.09849.pdf) | Alex Falcon | |
+| 2023 | ArXiv | [Sources of Hallucination by Large Language Models on Inference Tasks](https://arxiv.org/pdf/2305.14552.pdf) | Nick McKenna | |
+
+
 
 
 ## Generalization Capability of the Model
