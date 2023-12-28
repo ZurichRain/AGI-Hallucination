@@ -55,6 +55,9 @@
 | 2022 | ArXiv | [Survey of Hallucination in Natural Language Generation](https://arxiv.org/pdf/2202.03629.pdf) | ZIWEI JI ||
 | 2023 | ArXiv | [Theory of Hallucinations based on Equivariance](https://arxiv.org/pdf/2312.14504.pdf) | Hisaichi Shibata ||
 | 2023 | ArXiv | [Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/pdf/2309.06794.pdf) | Hongbin Ye ||
+| 2023 | ArXiv | [Factuality Challenges in the Era of Large Language Models](https://arxiv.org/pdf/2310.05189.pdf) | Isabelle Augenstein ||
+
+
 
 
 
