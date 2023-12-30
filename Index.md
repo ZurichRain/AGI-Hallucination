@@ -222,6 +222,10 @@ Hallucinations are not always entirely negative phenomena. To a certain extent, 
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [LLM LIES: HALLUCINATIONS ARE NOT BUGS, BUT FEATURES AS ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/2310.01469.pdf) | Jia-Yu Yao | |
 | 2023 | IEEE | [Intentional Biases in LLM Responses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10316060) |  Nicklaus Badyal | |
+| 2023 | ArXiv | [User-Controlled Knowledge Fusion in Large Language Models: Balancing Creativity and Hallucination](https://arxiv.org/pdf/2307.16139.pdf) |  Chen Zhang | |
+
+
+
 
 
 
