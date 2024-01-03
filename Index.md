@@ -85,6 +85,8 @@
 | 2020 | ArXiv | [Data augmentation techniques for the Video Question Answering task](https://arxiv.org/pdf/2008.09849.pdf) | Alex Falcon | |
 | 2023 | ArXiv | [Sources of Hallucination by Large Language Models on Inference Tasks](https://arxiv.org/pdf/2305.14552.pdf) | Nick McKenna | |
 | 2023 | ArXiv | [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf) | Chunting Zhou | |
+| 2020 | ArXiv | [OVERFITTING OR UNDERFITTING? UNDERSTAND ROBUSTNESS DROP IN ADVERSARIAL TRAINING](https://arxiv.org/pdf/2010.08034.pdf) | Zichao Li | |
+
 
 
 
