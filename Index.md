@@ -109,6 +109,10 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/pdf/2309.10313.pdf) | Yuexiang Zhai | |
+| 2023 | ArXiv | [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models](https://arxiv.org/pdf/2309.06256.pdf) | Yong Lin | |
+
+
+
 
 
 
