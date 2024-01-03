@@ -84,6 +84,7 @@
 | 2023 | ArXiv | [On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?](https://arxiv.org/pdf/2204.07931.pdf) | Nouha Dziri | |
 | 2020 | ArXiv | [Data augmentation techniques for the Video Question Answering task](https://arxiv.org/pdf/2008.09849.pdf) | Alex Falcon | |
 | 2023 | ArXiv | [Sources of Hallucination by Large Language Models on Inference Tasks](https://arxiv.org/pdf/2305.14552.pdf) | Nick McKenna | |
+| 2023 | ArXiv | [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf) | Chunting Zhou | |
 
 
 
