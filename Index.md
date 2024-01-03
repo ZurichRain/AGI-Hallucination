@@ -167,6 +167,10 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | AAAI | [Certified Policy Smoothing for Cooperative Multi-Agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26756) | Ronghui Mu ||
+| 2023 | ArXiv | [Audio Visual Language Maps for Robot Navigation](https://arxiv.org/pdf/2303.07522.pdf) | Chenguang Huang ||
+
+
+
 
 # Evaluation for AGI Hallucination
 
