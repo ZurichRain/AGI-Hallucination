@@ -105,6 +105,12 @@
 | 2022 | ArXiv | [Teaching models to express their uncertainty in words](https://arxiv.org/pdf/2205.14334.pdf) | Stephanie Lin | |
 
 
+## Timeliness of Information
+| Year | Source | Name | Author | Content |
+| :- | :-: | :- | :- | :- |
+| 2023 | ArXiv | [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/pdf/2309.10313.pdf) | Yuexiang Zhai | |
+
+
 
 
 
