@@ -176,6 +176,8 @@
 | 2023 | ArXiv | [Mitigating Hallucination in Visual Language Models with Visual Supervision](https://arxiv.org/pdf/2311.16479.pdf) | Zhiyang Chen | |
 | 2023 | ArXiv | [ANALYZING AND MITIGATING OBJECT HALLUCINATION IN LARGE VISION-LANGUAGE MODELS](https://arxiv.org/pdf/2310.00754.pdf) | Yiyang Zhou ||
 | 2023 | ArXiv | [Multimodal Entity Tagging with Multimodal Knowledge Base](https://arxiv.org/pdf/2201.00693.pdf) | Hao Peng ||
+| 2023 | ArXiv | [Boosting Entity-aware Image Captioning with Multi-modal Knowledge Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10214643) | Wentian Zhao ||
+
 
 
 
