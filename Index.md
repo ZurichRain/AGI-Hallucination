@@ -133,6 +133,9 @@
 | 2023 | ArXiv | [TELL YOUR MODEL WHERE TO ATTEND: POST-HOC ATTENTION STEERING FOR LLMS](https://arxiv.org/pdf/2311.02262.pdf) | Qingru Zhang | |
 | 2023 | ArXiv | [PERSONALIZED SOUPS: PERSONALIZED LARGE LANGUAGE MODEL ALIGNMENT VIA POST-HOC PARAMETER MERGING](https://arxiv.org/pdf/2310.11564.pdf) | Joel Jang | |
 | 2023 | ArXiv | [KNOWLEDGE SOLVER: TEACHING LLMS TO SEARCH FOR DOMAIN KNOWLEDGE FROM KNOWLEDGE GRAPHS](https://arxiv.org/pdf/2309.03118.pdf) | Chao Feng | |
+| 2023 | ArXiv | [Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation](https://arxiv.org/pdf/2311.04177.pdf) | Eric Melz | |
+
+
 
 
 
