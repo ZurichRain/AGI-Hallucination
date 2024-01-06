@@ -77,7 +77,7 @@ We called it LightHouse for AGI
 ## 🔮 Talking about Future
 
 <div align="center">
-  <img src="figures/future.png" alt="future" width="700"><br>
+  <img src="figures/future.png" alt="future" width="500"><br>
 </div></br>
 
 ## 📲 Contact
