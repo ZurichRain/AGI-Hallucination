@@ -6,7 +6,7 @@
 
 A Survey of AGI Hallucination
 
-See paper index in [**CheckHere**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
+See paper index in [**PaperList**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
 
 
 
