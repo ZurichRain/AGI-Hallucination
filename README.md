@@ -1,7 +1,7 @@
 # AGI-Hallucination
 A Survey of AGI Hallucination
 
-See paper index in [index](https://www.google.com)
+See paper index in [index](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
 
 ## Once this problem is solved, the path to AGI unfolds
 We called it LightHouse for AGI
