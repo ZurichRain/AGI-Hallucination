@@ -55,3 +55,15 @@ Nowadays, we defined hallucinations as model outputs that do not align with the 
 <div align="center">
   <img src="figures/case3.png" alt="LLM evaluation" width="700"><br>
 </div></br>
+<div align="center">
+  <img src="figures/case4.png" alt="LLM evaluation" width="700"><br>
+</div></br>
+<div align="center">
+  <img src="figures/case5.png" alt="LLM evaluation" width="700"><br>
+</div></br>
+<div align="center">
+  <img src="figures/case6.png" alt="LLM evaluation" width="700"><br>
+</div></br>
+<div align="center">
+  <img src="figures/case7.png" alt="LLM evaluation" width="700"><br>
+</div></br>
