@@ -20,6 +20,28 @@ Nowadays, we defined hallucinations as model outputs that do not align with the 
   - Conflict in Intrinsic Knowledge of Models
   - Factual Conflict in Information Forgetting and Updating
   - Conflict in Multimodal Fusion
+  
+- Emergence for AGI Hallucination
+  - Training Data Distribution
+  - Timeliness of Information
+  - Ambiguity in Different Modalities
+
+- Mitigation for AGI Hallucination
+  - Data
+  - Train & SFT & RLHF
+  - Inference & Post-hoc
+
+- Evaluation for AGI Hallucination
+  - Benchmark
+  - Rule-Based
+  - Large Model-Based
+  - Human-Based
+
+- Talk about Future
+  - Dataset for 3D, Ego-Centric, Video, and Agent
+  - Mutimodel Fusion, RLHF Refine, Objective Refine, Inference Refine
+  - Knowledge Update, Catastrophic Forgetting
+  - Balance Creation and Hallucintion
 
 <div align="center">
   <img src="figures/LightHouse.png" alt="LLM evaluation" width="300"><br>
