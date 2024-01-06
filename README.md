@@ -79,3 +79,6 @@ We called it LightHouse for AGI
 <div align="center">
   <img src="figures/future.png" alt="future" width="700"><br>
 </div></br>
+
+## 📲Contact
+We warmly welcome any kinds of useful suggestions or contributions. Feel free to drop us an issue or contact Sharp with [this e-mail](mailto:20214227015@stu.suda.edu.cn).
