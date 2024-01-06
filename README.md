@@ -1,8 +1,8 @@
 # AGI-Hallucination
 ![](https://img.shields.io/badge/AGI-welcome-brightgreen) 
 <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
-<img src="https://img.shields.io/github/stars/HillZhang1999/llm-hallucination-survey?color=yellow" alt="Stars">
-<img src="https://img.shields.io/github/issues/HillZhang1999/llm-hallucination-survey?color=red" alt="Issues">
+<img src="https://img.shields.io/github/stars/ZurichRain/AGI-Hallucination?color=yellow" alt="Stars">
+<img src="https://img.shields.io/github/issues/ZurichRain/AGI-Hallucination?color=red" alt="Issues">
 
 A Survey of AGI Hallucination
 
