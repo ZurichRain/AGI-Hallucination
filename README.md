@@ -4,11 +4,21 @@
 <img src="https://img.shields.io/github/stars/ZurichRain/AGI-Hallucination?color=yellow" alt="Stars">
 <img src="https://img.shields.io/github/issues/ZurichRain/AGI-Hallucination?color=red" alt="Issues">
 
-A Survey of AGI Hallucination
+`A Survey of AGI Hallucination`
 
 See paper index in [**PaperList**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
 
+[LightHouse: A Survey of AGI Hallucination](https://arxiv.org/submit/5333003/view)
 
+If you think our survey is helpful, please kindly cite our paper:
+```
+@article{zhang2023hallucination,
+      title={LightHouse: A Survey of AGI Hallucination}, 
+      author={Feng, Wang},
+      journal={arXiv preprint arXiv:2412.5333003},
+      year={2023}
+}
+```
 
 ## :book: Once this problem is solved, the path to AGI unfolds
 We called it LightHouse for AGI
