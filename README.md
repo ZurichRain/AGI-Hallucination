@@ -8,14 +8,13 @@ A Survey of AGI Hallucination
 
 See paper index in [index.md](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
 
-## Once this problem is solved, the path to AGI unfolds
+## :book: Once this problem is solved, the path to AGI unfolds
 We called it LightHouse for AGI
 
 <div align="center">
   <img src="figures/Define.png" alt="LLM evaluation" width="300"><br>
 </div></br>
 
-## 🚀Table of Content
 Nowadays, we defined hallucinations as model outputs that do not align with the contemporary empirical realities of our current world.
 - Definition for AGI Hallucination
   - Conflict in Intrinsic Knowledge of Models
