@@ -15,9 +15,7 @@ We called it LightHouse for AGI
   <img src="figures/Define.png" alt="LLM evaluation" width="500"><br>
 </div></br>
 
-<div align="center">
-  <img src="figures/case1.png" alt="LLM evaluation" width="500"><br>
-</div></br>
+
 Nowadays, we defined hallucinations as model outputs that do not align with the contemporary empirical realities of our current world.
 - Definition for AGI Hallucination
   - Conflict in Intrinsic Knowledge of Models
@@ -46,6 +44,14 @@ Nowadays, we defined hallucinations as model outputs that do not align with the 
   - Knowledge Update, Catastrophic Forgetting
   - Balance Creation and Hallucintion
 
+
+## :mag: Case Study
 <div align="center">
-  <img src="figures/LightHouse.png" alt="LLM evaluation" width="300"><br>
+  <img src="figures/case1.png" alt="LLM evaluation" width="700"><br>
+</div></br>
+<div align="center">
+  <img src="figures/case2.png" alt="LLM evaluation" width="700"><br>
+</div></br>
+<div align="center">
+  <img src="figures/case3.png" alt="LLM evaluation" width="700"><br>
 </div></br>
