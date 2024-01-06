@@ -12,7 +12,7 @@ See paper index in [index.md](https://github.com/ZurichRain/AGI-Hallucination/bl
 We called it LightHouse for AGI
 
 <div align="center">
-  <img src="figures/Define.png" alt="LLM evaluation" width="500"><br>
+  <img src="figures/Define.png" alt="Define" width="500"><br>
 </div></br>
 
 
@@ -47,23 +47,23 @@ Nowadays, we defined hallucinations as model outputs that do not align with the 
 
 ## :mag: Case Study
 <div align="center">
-  <img src="figures/case1.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case1.png" alt="case1" width="700"><br>
 </div></br>
 <div align="center">
-  <img src="figures/case2.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case2.png" alt="case2" width="700"><br>
 </div></br>
 <div align="center">
-  <img src="figures/case3.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case3.png" alt="case3" width="700"><br>
 </div></br>
 <div align="center">
-  <img src="figures/case4.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case4.png" alt="case4" width="700"><br>
 </div></br>
 <div align="center">
-  <img src="figures/case5.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case5.png" alt="case5" width="700"><br>
 </div></br>
 <div align="center">
-  <img src="figures/case6.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case6.png" alt="case6" width="700"><br>
 </div></br>
 <div align="center">
-  <img src="figures/case7.png" alt="LLM evaluation" width="700"><br>
+  <img src="figures/case7.png" alt="case7" width="700"><br>
 </div></br>
