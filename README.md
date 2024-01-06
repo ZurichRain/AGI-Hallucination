@@ -6,9 +6,8 @@
 
 A Survey of AGI Hallucination
 
-See paper index in [index.md](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
+See paper index in [**CheckHere**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
 
-<a href="https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">点击这里</a>
 
 
 ## :book: Once this problem is solved, the path to AGI unfolds
