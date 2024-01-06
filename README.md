@@ -16,7 +16,7 @@ We called it LightHouse for AGI
 </div></br>
 
 
-Nowadays, we defined hallucinations as model outputs that do not align with the contemporary empirical realities of our current world.
+Nowadays, we defined hallucinations as *** model outputs that do not align with the contemporary empirical realities of our current world. ***
 - Definition for AGI Hallucination
   - Conflict in Intrinsic Knowledge of Models
   - Factual Conflict in Information Forgetting and Updating
