@@ -277,7 +277,7 @@ Hallucinations are not always entirely negative phenomena. To a certain extent, 
 ## Video-Text Hallucination
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
-| 2023 | ArXiv | [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/pdf/2304.14406.pdf) | Sumith Kulal | 本文提出使用人物插入场景的方法，使得模型可以产生人物幻觉和场景幻觉，使得构图协调，又富有创造力。 |
+| 2023 | ArXiv | [Putting People in Their Place: Affordance-Aware Human Insertion into Scenes](https://arxiv.org/pdf/2304.14406.pdf) | Sumith Kulal | This paper proposes the method of inserting characters into scenes, enabling the model to generate both character and scene hallucinations, resulting in compositions that are both harmonious and creative. |
 | 2023 | ArXiv | [Multi-Object Tracking with Hallucinated and Unlabeled Videos](https://arxiv.org/pdf/2108.08836.pdf) | Daniel McKee |  |
 
 ## Audio Hallucination
