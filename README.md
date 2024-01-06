@@ -7,6 +7,9 @@
 Please check recent paper index list in [**PaperList**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md).  We present a `bird’s eye view of hallucinations in AGI` and compile a comprehensive survey.
 [LightHouse: A Survey of AGI Hallucination](https://arxiv.org/submit/5333003/view)
 
+<div align="center">
+  <img src="figures/Define.png" alt="Define" width="500"><br>
+</div></br>
 
 ## :book: Once this problem is solved, the path to AGI unfolds
 We called it LightHouse for AGI
