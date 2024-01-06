@@ -7,5 +7,5 @@ See paper index in [index.md](https://github.com/ZurichRain/AGI-Hallucination/bl
 We called it LightHouse for AGI
 
 <div align="center">
-  <img src="figures/hallucination_example.png" alt="LLM evaluation" width="300"><br>
+  <img src="figures/LightHouse.png" alt="LLM evaluation" width="300"><br>
 </div></br>
