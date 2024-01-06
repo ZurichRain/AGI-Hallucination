@@ -81,4 +81,4 @@ We called it LightHouse for AGI
 </div></br>
 
 ## 📲 Contact
-We warmly welcome any kinds of useful suggestions or contributions. Feel free to drop us an issue or contact Feng with [this e-mail](mailto:20214227015@stu.suda.edu.cn).
+We warmly welcome any kinds of useful suggestions or contributions. Feel free to drop us an issue or contact Rain with [this e-mail](mailto:20214227015@stu.suda.edu.cn).
