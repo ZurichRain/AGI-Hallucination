@@ -4,9 +4,7 @@
 <img src="https://img.shields.io/github/stars/ZurichRain/AGI-Hallucination?color=yellow" alt="Stars">
 <img src="https://img.shields.io/github/issues/ZurichRain/AGI-Hallucination?color=red" alt="Issues">
 
-`A Survey of AGI Hallucination`
-
-See paper index in [**PaperList**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)
+See paper index in [**PaperList**](https://github.com/ZurichRain/AGI-Hallucination/blob/main/Index.md)  We present a `bird’s eye view of hallucinations in AGI` and compile a comprehensive survey.
 
 [LightHouse: A Survey of AGI Hallucination](https://arxiv.org/submit/5333003/view)
 
