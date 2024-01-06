@@ -8,7 +8,7 @@ Please check recent paper index list in [**PaperList**](https://github.com/Zuric
 [LightHouse: A Survey of AGI Hallucination](https://arxiv.org/submit/5333003/view)
 
 <div align="center">
-  <img src="figures/lighthouse_1.png" alt="lighthouse" width="500"><br>
+  <img src="figures/lighthouse_1.png" alt="lighthouse" width="300"><br>
 </div></br>
 
 ## :book: Once this problem is solved, the path to AGI unfolds
