@@ -1,4 +1,4 @@
-# Definition for AGI Hallucination
+# 📖 Definition for AGI Hallucination
 ## Image-Text Hallucination
 
 | Year | Source | Name | Author | Content |
