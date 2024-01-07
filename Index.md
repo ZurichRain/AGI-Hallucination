@@ -73,7 +73,7 @@
 
 
 
-# Emergence for AGI Hallucination
+# 🌱 Emergence for AGI Hallucination
 ## Data Distribution in the Training Stage
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
@@ -119,7 +119,7 @@
 
 
 
-# Solution for AGI Hallucination
+# 🛠️ Solution for AGI Hallucination
 
 ## Language Hallucination
 
@@ -243,7 +243,7 @@
 
 
 
-# Discourse for AGI Hallucination
+# 💀🍬 Discourse for AGI Hallucination
 Hallucinations are not always entirely negative phenomena. To a certain extent, they reflect the creativity inherent in the model. We should embrace hallucinations, striving to minimize those that are unequivocally erroneous.
 
 
