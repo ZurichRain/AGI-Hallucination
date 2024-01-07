@@ -4,8 +4,8 @@
 | Year | Source | Name | Author | Content |
 | :- | :-: | :- | :- | :- |
 | 2023 | ArXiv | [Woodpecker: Hallucination Correction for Multimodal Large Language Models](https://arxiv.org/pdf/2310.16045.pdf) | Shukang Yin ||
-| 2019 | ArXiv | [Object Hallucination in Image Captioning](https://arxiv.org/pdf/1809.02156.pdf) | Anna Rohrbach ||
 | 2023 | ArXiv | [GPT-4V(ision) as A Social Media Analysis Engine](https://arxiv.org/pdf/2311.07547.pdf) | Hanjia Lyu ||
+| 2019 | ArXiv | [Object Hallucination in Image Captioning](https://arxiv.org/pdf/1809.02156.pdf) | Anna Rohrbach ||
 
 
 
