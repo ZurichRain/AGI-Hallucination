@@ -41,6 +41,8 @@
 | 2024 | ArXiv | [MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance](https://arxiv.org/pdf/2401.02906.pdf) | Renjie Pi | | Image |
 | 2023 | ArXiv | [Investigating the Catastrophic Forgetting in Multimodal Large Language Models](https://arxiv.org/pdf/2309.10313.pdf) | Yuexiang Zhai | | Image |
 | 2023 | ArXiv | [Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models](https://arxiv.org/pdf/2309.06256.pdf) | Yong Lin | | Language |
+| 2023 | ArXiv | [t-DGR: A Trajectory-Based Deep Generative Replay Method for Continual Learning in Decision Making](https://arxiv.org/pdf/2401.02576.pdf) | William Yue | | Agent |
+
 
 ## Ambiguity in Different Modalities
 | Year | Source | Name | Author | Content | Class |
