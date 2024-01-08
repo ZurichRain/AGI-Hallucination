@@ -24,7 +24,7 @@
 # 🌱 Emergence for AGI Hallucination
 ## Training Data Distribution
 | Year | Source | Name | Author | Content | Class |
-| :- | :-: | :- | :- | :- |
+| :- | :-: | :- | :- | :- | :- |
 | 2021 | ArXiv | [How much do language models copy from their training data? Evaluating linguistic novelty in text generation using RAVEN](https://arxiv.org/pdf/2111.09509.pdf) | R. Thomas McCoy | | Language |
 | 2023 | ArXiv | [Explanation Shift: How Did the Distribution Shift Impact the Model?](https://arxiv.org/pdf/2303.08081.pdf) | Carlos Mougan | | Language |
 | 2023 | ArXiv | [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf) | Hyung Won Chung | | Language |
