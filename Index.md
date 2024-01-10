@@ -12,7 +12,7 @@
 | Year | Source | Name | Author | Content | Class |
 | :- | :-: | :- | :- | :- | :- |
 | 2024 | ArXiv | [Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity](https://arxiv.org/pdf/2310.07521.pdf) | CUNXIANG WANG | This paper define capability of large language models for generating contents that follow factual information, which encompasses commonsense, world knowledge and domain facts. | Language |
-| 2024 | ArXiv | [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/pdf/1612.00796.pdf) | James Kirkpatrick | | normal |
+| 2017 | ArXiv | [Overcoming catastrophic forgetting in neural networks](https://arxiv.org/pdf/1612.00796.pdf) | James Kirkpatrick | | normal |
 
 
 
