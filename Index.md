@@ -210,6 +210,8 @@
 | 2023 | ArXiv | [A Survey of Hallucination in “Large” Foundation Models](https://arxiv.org/pdf/2309.05922.pdf) | Vipula Rawte ||
 | 2023 | ArXiv | [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://aclanthology.org/2023.emnlp-main.397.pdf) | Junyi Li ||
 | 2023 | ArXiv | [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/pdf/2305.10355.pdf) | Yifan Li ||
+| 2023 | ArXiv | [A Benchmark for General AI Assistants](https://arxiv.org/pdf/2311.12983.pdf) | Gr´egoire Mialon ||
+
 
 
 ## Image-Text Hallucination
