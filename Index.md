@@ -108,6 +108,9 @@
 | 2023 | ArXiv | [RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback](https://arxiv.org/pdf/2312.00849.pdf) | Tianyu Yu | |
 | 2023 | ArXiv | [Learning by Hallucinating: Vision-Language Pre-training with Weak Supervision](https://arxiv.org/pdf/2210.13591.pdf) | Tzu-Jui Julius Wang | |
 | 2023 | ArXiv | [MLLM-Protector: Ensuring MLLM’s Safety without Hurting Performance](https://arxiv.org/pdf/2401.02906.pdf) | Renjie Pi | |
+| 2023 | ArXiv | [USING HUMAN FEEDBACK TO FINE-TUNE DIFFUSION MODELS WITHOUT ANY REWARD MODEL](https://arxiv.org/pdf/2311.13231.pdf) | Kai Yang | |
+
+
 
 
 
