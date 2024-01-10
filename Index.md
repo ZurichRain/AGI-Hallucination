@@ -189,6 +189,9 @@
 | 2023 | ArXiv | [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/pdf/2307.01928.pdf) | Allen Z. Ren ||
 | 2021 | ArXiv | [Toward Agile Maneuvers in Highly Constrained Spaces: Learning from Hallucination](https://arxiv.org/pdf/2007.14479.pdf) | Xuesu Xiao ||
 | 2023 | ArXiv | [LARGE LANGUAGE MODELS AS GENERALIZABLE POLICIES FOR EMBODIED TASKS](https://arxiv.org/pdf/2310.17722.pdf) | Andrew Szot ||
+| 2023 | ArXiv | [CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/pdf/2312.08914.pdf) | Wenyi Hong ||
+
+
 
 
 
